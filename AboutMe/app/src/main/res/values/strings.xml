@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Lakshya Singh</string>
+    <string name="yellowStar">Yellow Star</string> 
+    <string name="bio">Hi, my name is Lakshya Singh aka Target_X,
+    \n\nI enjoy beauty of nature
+    . I go on a lot of tour to enjoy it
+    . I like walking down streets with my friends or at times alone too \:\)
+    \n\nI am a foodie. I love eating good food and would never shy away if you
+        offer me a choclate at any time
+    </string>
+    <string name="what_is_your_nickname">What is your nickname ?</string>
+</resources>
